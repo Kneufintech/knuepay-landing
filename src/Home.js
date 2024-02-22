@@ -1,6 +1,5 @@
 import React from "react";
 import "./Home.css";
-
 export default function Home() {
   return (
     <div className="Home">
@@ -13,14 +12,15 @@ export default function Home() {
             Make A Big Entrance Into Financial Freedom? Gargle No Further,
             You're In The Right Place.
           </p>
-          <img src="/ellipse-one.png" alt="users" />
-          <img src="/ellipse-two.png" className="sum" alt="users" />
-          <img src="/ellipse-three.png" className="sum" alt="users" />
-          <img src="/ellipse-four.png" className="sum" alt="users" />
+          <img src="/ellipse-one.png" alt="user" />
+          <img src="/ellipse-two.png" className="sum" alt="use" />
+          <img src="/ellipse-three.png" className="sum" alt="see" />
+          <img src="/ellipse-four.png" className="sum" alt="man" />
           <img src="/thirty.png" className="ordinal" alt="figure" />
-          <span className="time mt-5 ms-5 justify-content-end">
+          <span className="time mt-5 ms-5 d-none">
             Realtime Users
           </span>
+
           <div>
             <button>
               Explore <img src="/arrow.png" className="arrow" alt="arrow" />

@@ -1,5 +1,6 @@
 import "./App.css";
 import Home from "./Home.js";
+import Part from "./Part.js";
 import About from "./About.js";
 export default function App() {
   return (
@@ -55,6 +56,7 @@ export default function App() {
         </span>
       </nav>
       <Home />
+      <Part />
       <About />
     </div>
   );
