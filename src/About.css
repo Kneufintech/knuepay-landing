@@ -1,0 +1,33 @@
+.About {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.About button {
+  padding: 8px 20px;
+  background-color: #003e55;
+  color: white;
+  border-radius: 30px;
+  text-align: center;
+  margin-top: 35px;
+}
+.About h3 {
+  font-family: "Aeonik-Bold";
+  font-size: 35px;
+  font-weight: 700;
+  line-height: 37px;
+  color: #f71c32;
+}
+.About .first {
+  font-family: "Aeonik-Regular";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 50px;
+}
+.About .second {
+  font-family: "Aeonik-Regular";
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 30px;
+}

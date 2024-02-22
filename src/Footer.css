@@ -1,0 +1,26 @@
+.Footer {
+  background-color: #f71c32;
+  color: white;
+  padding: 45px 40px;
+  border-radius: 30px;
+}
+.Footer p {
+  font-family: "Aeonik" serif;
+  font-size: 15px;
+  text-align: left;
+}
+.Footer input {
+  padding: 10px 45px;
+  background: #f71c32;
+  border: 1px solid white;
+  border-radius: 30px;
+  color: white;
+}
+button {
+  padding: 10px 30px;
+  color: #f71c32;
+  background: white;
+}
+.Footer form {
+  margin-top: 2px;
+}

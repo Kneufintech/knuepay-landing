@@ -1,0 +1,39 @@
+.Faq {
+  background-color: #f9f9f9;
+}
+.Faq h3 {
+  color: #f71c32;
+  font-family: "Aeonik";
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 48px;
+}
+.section {
+  margin: 100px 200px;
+  padding: 10px 50px;
+  border: 1px solid #f9f9f9;
+  border-radius: 25px;
+  background: white;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #222222;
+  transition: ease-in-out;
+}
+a:hover {
+  color: black;
+}
+.sole {
+  border: 1px solid white;
+  border-radius: 20px;
+  padding: 5px 5px 5px 5px;
+  background: #f9f9f9;
+  color: black;
+  text-align: left;
+}
+strong {
+  font-size: 20px;
+}

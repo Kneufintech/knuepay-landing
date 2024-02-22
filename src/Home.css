@@ -1,0 +1,58 @@
+.Home {
+  margin-top: 50px;
+}
+.Home h1 {
+  font-family: "Aeonik-Bold";
+  font-weight: 900;
+  font-size: 65px;
+  line-height: 70px;
+  color: #0f1928;
+  margin-top: 50px;
+}
+.Home h2 {
+  font-family: "Aeonik-Regular";
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 60px;
+  color: #0f1928;
+}
+.Home p {
+  font-family: "Aeonik-Regular";
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 30px;
+  margin-bottom: 80px;
+  color: #3f4753;
+}
+.Home .mobile {
+  max-width: 100%;
+  height: auto;
+}
+.Home .sum {
+  margin-left: -1.5rem;
+}
+.Home .ordinal {
+  margin-left: 30px;
+}
+.Home .time {
+  position: absolute;
+  left: 325px;
+  top: 710px;
+  font-family: "Aeonik-Regular";
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 17px;
+}
+.Home button {
+  margin-top: 90px;
+  padding: 7px 30px;
+  background-color: #003e55;
+  color: white;
+  border-radius: 30px;
+  text-align: center;
+}
+@media (max-width: 600px) {
+  .Home {
+    margin-top: 30px;
+  }
+}

@@ -1,0 +1,18 @@
+.Product h2 {
+  font-family: "Aeonik-Bold";
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 80px;
+  text-align: left;
+  margin-top: 220px;
+}
+.Product .down {
+  color: #f71c32;
+}
+.Product button {
+  padding: 8px 20px;
+  opacity: 37%;
+  background: #003e55;
+  color: #f9f9f9;
+  margin-top: 50px;
+}
