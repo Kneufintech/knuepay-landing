@@ -10,17 +10,24 @@
   text-align: left;
 }
 .Footer input {
-  padding: 10px 45px;
+  padding: 10px 60px;
   background: #f71c32;
   border: 1px solid white;
   border-radius: 30px;
   color: white;
 }
-button {
+.Footer .truth {
   padding: 10px 30px;
   color: #f71c32;
   background: white;
+  font-family: "Aeonik";
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 26px;
+  border: 1px solid #f71c32;
+  text-align: left;
 }
-.Footer form {
-  margin-top: 2px;
+
+.Footer strong {
+  font-weight: 700;
 }

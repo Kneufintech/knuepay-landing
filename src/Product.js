@@ -10,10 +10,10 @@ export default function Product() {
           <h2>
             For better experience <span className="down">DOWNLOAD</span> our app
           </h2>
-          <button>Download</button>
+          <button className="honest">Download</button>
         </div>
         <div className="col-md-5">
-          <img src="/mockupp.png" alt="phonee" class="mt-5 ms-3" />
+          <img src="/mockupp.png" alt="phonee" className="mt-5 ms-3" />
         </div>
       </div>
       <Faq />

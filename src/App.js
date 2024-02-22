@@ -1,6 +1,5 @@
 import "./App.css";
 import Home from "./Home.js";
-import Part from "./Part.js";
 import About from "./About.js";
 export default function App() {
   return (
@@ -21,22 +20,22 @@ export default function App() {
               </a>
             </li>
             <li className="item">
-              <a href="home.js" class="link me-3">
+              <a href="home.js" className="link me-3">
                 Features
               </a>
             </li>
             <li className="item">
-              <a href="home.js" class="link me-3">
+              <a href="home.js" className="link me-3">
                 About us
               </a>
             </li>
             <li className="item">
-              <a href="home.js" class="link me-3">
+              <a href="home.js" className="link me-3">
                 Product
               </a>
             </li>
             <li className="item">
-              <a href="home.js" class="link me-5">
+              <a href="home.js" className="link me-5">
                 FAQ
               </a>
             </li>
@@ -56,7 +55,6 @@ export default function App() {
         </span>
       </nav>
       <Home />
-      <Part />
       <About />
     </div>
   );
