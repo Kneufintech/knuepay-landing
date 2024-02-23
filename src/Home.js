@@ -17,7 +17,7 @@ export default function Home() {
           <img src="/ellipse-three.png" className="sum" alt="see" />
           <img src="/ellipse-four.png" className="sum" alt="man" />
           <img src="/thirty.png" className="ordinal" alt="figure" />
-          <span className="time mt-5 ms-5 d-none">
+          <span className="time mt-5 ms-5">
             Realtime Users
           </span>
 
