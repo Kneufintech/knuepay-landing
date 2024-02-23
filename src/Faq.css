@@ -37,6 +37,13 @@ a:hover {
 strong {
   font-size: 20px;
 }
-@media (max-width: 500px) {
-  
+@media (max-width: 900px) {
+  .section {
+    margin: 50px 100px;
+  }
+}
+@media (max-width: 600px) {
+  .section {
+    margin: 100px 20px;
+  }
 }

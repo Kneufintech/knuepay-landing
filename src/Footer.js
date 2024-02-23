@@ -25,7 +25,7 @@ export default function Footer() {
           </p>
         </div>
         <div className="col-md-6">
-          <div className="row">
+          <div className="row private">
             <div className="col-md-2 ms-5 me-5">
               <ul>
                 <li className="mb-4">
