@@ -5,7 +5,7 @@ import About from "./About.js";
 export default function App() {
   return (
     <div className="App">
-      <nav className="navbar navbar-light py-5">
+      <nav className="navbar navbar-light">
         <span className="navbar">
           <img src="/logo.svg" className="img-fluid logo" alt="logo" />
         </span>

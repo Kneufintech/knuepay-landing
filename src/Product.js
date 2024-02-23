@@ -13,7 +13,11 @@ export default function Product() {
           <button className="honest">Download</button>
         </div>
         <div className="col-md-5">
-          <img src="/mockupp.png" alt="phonee" className="mt-5 ms-3" />
+          <img
+            src="/mockupp.png"
+            alt="phonee"
+            className="mt-5 ms-3 classy"
+          />
         </div>
       </div>
       <Faq />

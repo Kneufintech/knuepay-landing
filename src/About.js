@@ -6,10 +6,10 @@ export default function About() {
   return (
     <div className="About">
       <div className="row">
-        <div className="col-sm-6">
+        <div className="col-md-6">
           <img src="/mock.png" alt="phone" />
         </div>
-        <div className="col-sd-6">
+        <div className="col-md-6">
           <h3 className="mt-5">What You Need To Know About Us</h3>
           <p className="first">
             Kneupay was founded in (2023) with the goal of simplifying finance

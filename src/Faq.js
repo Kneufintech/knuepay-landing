@@ -3,7 +3,7 @@ import "./Faq.css";
 import Footer from "./Footer.js";
 export default function Faq() {
   return (
-    <div className="Faq">
+    <div className="Faq text-center">
       <div className="section">
         <h3 className="text-center">Frequently Asked Questions </h3>
         <ul className="">
